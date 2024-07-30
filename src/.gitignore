@@ -4,8 +4,6 @@
 /public/hot
 /public/storage
 /storage/*.key
-/.docker_nnd/nginx/access.log
-/.docker_nnd/nginx/error.log
 /vendor
 .env
 .env.backup
@@ -19,3 +17,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+**/nginx/access.log
+**/nginx/error.log
