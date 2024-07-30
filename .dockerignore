@@ -2,5 +2,5 @@
 /.vscode
 /mysql
 /src
-/docker_nnd/nginx/access.log
-/docker_nnd/nginx/error.log
+./docker_nnd/nginx/access.log
+./docker_nnd/nginx/error.log
